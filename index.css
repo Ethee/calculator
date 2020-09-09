@@ -6,6 +6,7 @@ body{
     width: 238px;
     height: 80px;
     border: 1px solid #000;
+    text-align: right;
 }
 #grid{
     display: grid;
