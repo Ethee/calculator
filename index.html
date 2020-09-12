@@ -3,12 +3,17 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="index.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
     </head>
     <body>
-        <div>
+        <div id="calculator">
             <div id="display">
+                <div id="displayArea">
+                    <span id="displayNumber"></span>
+                    <span id="displayOperator"></span>
+                </div>
             </div>
-            <div id="grid"> 
+            <div id="grid">
                 <div id="percent" class="button">%</div>
                 <div id="clearEntry" class="button">CE</div>
                 <div id="clearAll" class="button">C</div>
@@ -16,11 +21,11 @@
                 <div id="invert" class="button"><sup>1</sup>/<sub>x</sub></div>
                 <div id="square" class="button">x<sup>2</sup></div>
                 <div id="squareRoot" class="button">&Sqrt;x</div>
-                <div class="button operator">&div;</div>
+                <div class="button operator">/</div>
                 <div class="button number">7</div>
                 <div class="button number">8</div>
                 <div class="button number">9</div>
-                <div class="button operator">X</div>
+                <div class="button operator">x</div>
                 <div class="button number">4</div>
                 <div class="button number">5</div>
                 <div class="button number">6</div>
