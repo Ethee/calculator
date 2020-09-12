@@ -1,38 +1,38 @@
-body{
-    display: flex;
-    justify-content: center;
-    font-family: roboto;
-    font-size: 20px;
+body {
+  display: flex;
+  justify-content: center;
+  font-family: roboto;
+  font-size: 20px;
 }
-#calculator{
-    height: 292px;
-    border: 1px solid #000;
+#calculator {
+  height: 292px;
+  border: 1px solid #000;
 }
-#display{
-    width: 238px;
-    height: 50px;
-    border: 1px solid #000;
-    position:relative;
-    font-size: 30px
+#display {
+  width: 238px;
+  height: 50px;
+  border: 1px solid #000;
+  position: relative;
+  font-size: 30px;
 }
-#displayArea{
-    position: absolute;
-    bottom: 0;
-    right: 0;
+#displayArea {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
-#displayNumber{
-    width: 200px;
-    text-align: right;
+#displayNumber {
+  width: 200px;
+  text-align: right;
 }
-#grid{
-    display: grid;
-    grid-template-columns: 60px 60px 60px 60px;
-    grid-template-rows: 40px 40px 40px 40px 40px 40px;
+#grid {
+  display: grid;
+  grid-template-columns: 60px 60px 60px 60px;
+  grid-template-rows: 40px 40px 40px 40px 40px 40px;
 }
-.button{
-    border: 1px solid #000;
-    text-align: center;
+.button {
+  border: 1px solid #000;
+  text-align: center;
 }
-.button:hover{
-    background: #d6d6d6;
+.button:hover {
+  background: #d6d6d6;
 }
