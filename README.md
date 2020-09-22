@@ -1,7 +1,7 @@
-# calculator
+## Calculator
 
 A simple calculator.
 
-TODO:
+### TODO:
 
 Make it look pretty
