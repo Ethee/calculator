@@ -2,7 +2,7 @@
 
 A simple calculator.
 
-A link can be found [here.](https://github.com/Ethee/calculator/deployments/activity_log?environment=github-pages)
+A link can be found [here.](https://github.com/Ethee/calculator)
 
 ### TODO:
 
