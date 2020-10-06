@@ -1,7 +1,9 @@
-# calculator
+## Calculator
 
 A simple calculator.
 
-TODO:
+A link can be found [here.](https://ethee.github.io/calculator/)
+
+### TODO:
 
 Make it look pretty
